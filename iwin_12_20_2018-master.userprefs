@@ -1,0 +1,20 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameTacoSDK\Scripts\UI\GameTacoUILoader.cs">
+    <Files>
+      <File FileName="Assets\GameTacoSDK\Scripts\UI\GameTacoUILoader.cs" Line="53" Column="1" />
+      <File FileName="Assets\GameTacoSDK\Scripts\UI\IGameTacoUILoader.cs" Line="17" Column="5" />
+      <File FileName="Assets\GameTacoSDK\Scripts\Manage\TacoSDK.cs" Line="26" Column="33" />
+      <File FileName="Assets\GameTacoSDK\Scripts\Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameTacoSDK\Test.cs" Line="28" Column="23" />
+      <File FileName="Assets\GameTaco\Scripts\Managers\LoginPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameTacoSDK\Scripts\Manage\Login\TacoManageLoginController.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameTacoSDK\Scripts\Manage\Loading\TacoManageLoadingView.cs" Line="19" Column="1" />
+      <File FileName="Assets\GameTaco\Scripts\Elements\TacoInputField.cs" Line="29" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

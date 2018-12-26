@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "386851703666-3j0n2h28tsmtutquliv3lm8cgrrh0qmv.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FClAPm6Jae8iJZAslEu1Pl8oNL6SRoc"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:ios:e2849915b73f87dd", 
+        "android_client_info": {
+          "package_name": "com.GameTaco.solitaire"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "gametaco-20340.appspot.com", 
+    "project_id": "gametaco-20340", 
+    "firebase_url": "https://gametaco-20340.firebaseio.com", 
+    "project_number": "386851703666"
+  }
+}

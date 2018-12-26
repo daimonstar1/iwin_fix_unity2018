@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 309013c7d4e50447dbf1bf6119a46e9a
+timeCreated: 1480359745
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 4.3_ui_buttonL
+    21300002: 4.3_ui_buttonP
+    21300004: 4.3_ui_logoL
+    21300006: 4.3_ui_logoP
+    21300008: 4.3_ui_config_buttonP
+    21300010: 4.3_ui_fc_buttonL
+    21300012: 4.3_ui_fb_buttonL
+    21300014: 4.3_ui_promo_barL
+    21300016: 4.3_ui_promo_flareL
+    21300018: 4.3_ui_icon_BTFCL
+    21300020: 4.3_ui_icon_CFCL
+    21300022: 4.3_ui_icon_JQFCL
+    21300024: 4.3_ui_promo_MCGL
+    21300026: 4.3_ui_checkbox_offL
+    21300028: 4.3_ui_checkbox_onL
+    21300030: 4.3_ui_close_buttonL
+    21300032: 4.3_ratenow_buttonL
+    21300034: 4.3_ui_close_rate_buttonL
+    21300036: 4.3_ui_ratenow_buttonL
+    21300038: 4.3_ui_gpbarL
+    21300040: 4.3_ui_gpbarP
+    21300042: 4.3_ui_pyramid_foundationP
+    21300044: 4.3_ui_gpscoreL
+    21300046: 4.3_ui_gpscoreP
+    21300048: 4.3_ui_undo_buttonP
+    21300050: 4.3_ui_comboP
+    21300052: 4.3_ui_end_buttonP
+    21300054: 4.3_ui2_foundationReset_
+    21300056: 4.3_ui2_foundationblank_P
+    21300058: 4.3_ui2_foundationclubs_P
+    21300060: 4.3_ui2_foundationdiamonds_P
+    21300062: 4.3_ui2_foundationhearts_P
+    21300064: 4.3_ui2_foundationspades_P
+    21300066: 4.3_ui2_foundationx3blank_P
+    21300068: Arrow
+    21300070: 4.3_ui_playnow_buttonP
+    21300072: 4.3_ui_arrow_P
+    21300074: 4.3_ui_foundationReset_
+    21300076: 4.3_ui_foundationblank_P
+    21300078: 4.3_ui_foundationclubs_P
+    21300080: 4.3_ui_foundationdiamonds_P
+    21300082: 4.3_ui_foundationhearts_P
+    21300084: 4.3_ui_foundationspades_P
+    21300086: 4.3_ui_foundationx3blank_P
+    21300088: 4.3_ui_close_buttonP
+    21300090: 4.3_ui_close_rate_button_P
+    21300092: 4.3_ui_promo_barP
+    21300094: 4.3_ui_fb_invite_buttonL
+    21300096: 4.3_ui_fb_like_buttonL
+    21300098: 4.3_ui_fb_invite2_buttonL
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4.3_ui_arrow_P
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 913
+        width: 141
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_buttonP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 485
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_checkbox_offL
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 423
+        width: 194
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_checkbox_onL
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 294
+        width: 194
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_close_buttonP
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 809
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_close_rate_button_P
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 274
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_comboP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 1004
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_config_buttonP
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1483
+        width: 130
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_end_buttonP
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 131
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_fb_buttonL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 293
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_fb_invite2_buttonL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 431
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_fb_invite_buttonL
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 327
+        width: 242
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_fb_like_buttonL
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 134
+        width: 294
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationReset_
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 563
+        width: 256
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationblank_P
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 816
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationclubs_P
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 523
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationdiamonds_P
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 816
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationhearts_P
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 34
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationspades_P
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 34
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_foundationx3blank_P
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 394
+        width: 352
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_gpbarP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 1536
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_gpscoreP
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2
+        width: 288
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_icon_BTFCL
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 421
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_icon_CFCL
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 673
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_icon_JQFCL
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1607
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_logoP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1109
+        width: 1412
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_playnow_buttonP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405
+        width: 522
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_promo_MCGL
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 14
+        width: 379
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_promo_barP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1866
+        width: 1536
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_promo_flareL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 812
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4.3_ui_ratenow_buttonL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 571
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

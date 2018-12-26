@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameTaco/Scenes/PreloadGame.unity
+  isLoaded: 1
+  isActive: 1

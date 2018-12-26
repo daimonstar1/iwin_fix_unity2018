@@ -1,0 +1,321 @@
+{
+  "project_info": {
+    "project_number": "386851703666",
+    "firebase_url": "https://gametaco-20340.firebaseio.com",
+    "project_id": "gametaco-20340",
+    "storage_bucket": "gametaco-20340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:61212e2dbb2bf211",
+        "android_client_info": {
+          "package_name": "com.GameTaco.BubbleTown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:2c56d1b1cf03e39e",
+        "android_client_info": {
+          "package_name": "com.GameTaco.ColorFlexIOS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:bbe353cf2fc1082a",
+        "android_client_info": {
+          "package_name": "com.GameTaco.FlappyTacoIOS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:4be082f9e333d109",
+        "android_client_info": {
+          "package_name": "com.GameTaco.TacoBlocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:081597a3dae39025",
+        "android_client_info": {
+          "package_name": "com.GameTaco.a2048Timed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:168699443f2d8771",
+        "android_client_info": {
+          "package_name": "com.GameTaco.a2048Untimed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:637ea1dd598539e0",
+        "android_client_info": {
+          "package_name": "com.GameTaco.bubbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:7554cfddd0748dd8",
+        "android_client_info": {
+          "package_name": "com.GameTaco.jewelquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:c4fc3db23282dc21",
+        "android_client_info": {
+          "package_name": "com.GameTaco.movingorpointingios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386851703666:android:e2849915b73f87dd",
+        "android_client_info": {
+          "package_name": "com.GameTaco.solitaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386851703666-m9h95cl5pdpqq2b5bt3qlakmk9ap266m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwEA1DYjR1tR1-aIHASXodeyeadg_K3ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
